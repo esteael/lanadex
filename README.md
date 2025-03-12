@@ -1,6 +1,5 @@
 
 - 👋 Hi, I’m Lana
-- 👀 I’m working on Showdown+
-- 🌱 I’m currently learning JavaScript.
+- 👀 Currently working on Letterboxed
+- 🌱 Proficient in Python and Typescript, learning C++
 - 📫 My discord is @midteen
-- 😄 Pronouns: he/him
